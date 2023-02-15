@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋👋👋
 
 <!--
 **vanphuoc3012/vanphuoc3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A722&background=FFFFFF00&width=435&lines=Hello%2C+I'm+Phuoc)](https://git.io/typing-svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=vanphuoc3012&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphuoc3012&layout=compact"/>
